@@ -1,0 +1,12 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on building intelligent systems
+capable of performing tasks that typically require human intelligence.
+
+AI systems can understand natural language, recognize images, analyze large volumes of data,
+and make decisions with minimal human intervention.
+
+Document processing is an important application of AI.
+By converting documents into embeddings and storing them in vector databases,
+AI systems can perform semantic search and retrieve relevant information efficiently.
+
+This project focuses on building a document ingestion and indexing pipeline
+that prepares documents for AI-powered search and question answering.
